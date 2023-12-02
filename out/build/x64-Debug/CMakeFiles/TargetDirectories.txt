@@ -1,0 +1,4 @@
+C:/Users/15712/source/repos/ECE3514-83720-2023Fall/ex34-mngembus/out/build/x64-Debug/CMakeFiles/unit_tests.dir
+C:/Users/15712/source/repos/ECE3514-83720-2023Fall/ex34-mngembus/out/build/x64-Debug/CMakeFiles/instructor_tests.dir
+C:/Users/15712/source/repos/ECE3514-83720-2023Fall/ex34-mngembus/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/15712/source/repos/ECE3514-83720-2023Fall/ex34-mngembus/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

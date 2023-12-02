@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/15712/source/repos/ECE3514-83720-2023Fall/ex34-mngembus/out/build/x64-Debug/CMakeFiles/instructor_tests.dir/embed.manifest"

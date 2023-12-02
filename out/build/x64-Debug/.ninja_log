@@ -1,0 +1,18 @@
+# ninja log v5
+6	4643	7231612375989753	CMakeFiles/unit_tests.dir/unit_tests.cpp.obj	84fa2e77091a32be
+21	4674	7231612376309536	CMakeFiles/instructor_tests.dir/unit_tests.cpp.obj	8a38333d6320e93b
+6	1122	7231619292340558	CMakeFiles/unit_tests.dir/test_binary_tree.cpp.obj	f18023e3a4b86017
+47	717	7231779394081233	unit_tests.exe	eacc49800988c6fc
+12	773	7231782721366448	CMakeFiles/unit_tests.dir/test_binary_tree.cpp.obj	f18023e3a4b86017
+46	1048	7232509089747500	CMakeFiles/unit_tests.dir/test_binary_tree.cpp.obj	f18023e3a4b86017
+58	1055	7232509089757477	CMakeFiles/instructor_tests.dir/.github/instructor_tests.cpp.obj	18101df7a5305503
+1049	1401	7232509092469387	unit_tests.exe	eacc49800988c6fc
+1056	1650	7232509095485421	instructor_tests.exe	53389b0f43ac9e89
+27	1265	7232579530495746	CMakeFiles/instructor_tests.dir/.github/instructor_tests.cpp.obj	18101df7a5305503
+22	1272	7232579530485621	CMakeFiles/unit_tests.dir/test_binary_tree.cpp.obj	f18023e3a4b86017
+1266	1589	7232579533175962	instructor_tests.exe	53389b0f43ac9e89
+1272	1589	7232579533175962	unit_tests.exe	eacc49800988c6fc
+20	958	7232580940387754	CMakeFiles/unit_tests.dir/test_binary_tree.cpp.obj	f18023e3a4b86017
+29	967	7232580940412788	CMakeFiles/instructor_tests.dir/.github/instructor_tests.cpp.obj	18101df7a5305503
+959	1158	7232580941964777	unit_tests.exe	eacc49800988c6fc
+968	1162	7232580942005909	instructor_tests.exe	53389b0f43ac9e89
